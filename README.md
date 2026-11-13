@@ -1,6 +1,5 @@
 <div align="center">
-<!-- Upload your generated header banner to ./assets/header-banner.jpg in your midhunkrishnan-131 repository -->
-<img src="./assets/header-banner.jpg" alt="Midhun Krishnan B — Python Developer · Gen AI Engineer" width="100%" />
+<img src="./Gemini_Generated_Image_yl0co3yl0co3yl0c.png" alt="Midhun Krishnan B — Python Developer · Gen AI Engineer" width="100%" />
 </div>
 
 <div align="center">
