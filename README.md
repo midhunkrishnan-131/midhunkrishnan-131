@@ -107,14 +107,11 @@ SYS_STATUS: ONLINE 🔴</code></pre>
 >_ GITHUB STATS & STREAK
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=midhunkrishnan-131&show_icons=true&bg_color=0d1117&title_color=ef4444&icon_color=38bdf8&text_color=e5e7eb&hide_border=true" alt="Midhun's GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=midhunkrishnan-131&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=38bdf8&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&hide_border=true" alt="Midhun's GitHub Streak" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=midhunkrishnan-131&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=38bdf8&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&hide_border=true" alt="Midhun's GitHub Streak" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=midhunkrishnan-131&theme=github_dark" alt="Midhun's GitHub Stats" height="170" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhunkrishnan-131&layout=compact&bg_color=0d1117&title_color=ef4444&text_color=e5e7eb&hide_border=true" alt="Top Languages" height="155" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=midhunkrishnan-131&bg_color=0d1117&color=ef4444&line=38bdf8&point=ef4444&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=midhunkrishnan-131&theme=github_dark" alt="Top Languages" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=midhunkrishnan-131&theme=github_dark" alt="Contribution Graph" height="170" />
 </p>
