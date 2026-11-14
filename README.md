@@ -1,12 +1,22 @@
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131%3Ftab%3Drepositories"><img src="./Gemini_Generated_Image_yl0co3yl0co3yl0c.png" alt="Midhun Krishnan B — Python Developer · Gen AI Engineer" width="100%" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131%3Ftab%3Drepositories">
+<img src="./Gemini_Generated_Image_yl0co3yl0co3yl0c.png" alt="Midhun Krishnan B — Python Developer · Gen AI Engineer" width="100%" />
+</a>
 </div>
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131"><img src="https://komarev.com/ghpvc/?username=midhunkrishnan-131&label=PROFILE%20VIEWS&color=ef4444&style=for-the-badge" alt="Profile Views" /></a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/midhun-krishnan-7b205a422"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131%3Ftab%3Drepositories"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:midhunmaddy84@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131">
+<img src="https://komarev.com/ghpvc/?username=midhunkrishnan-131&label=PROFILE%20VIEWS&color=ef4444&style=for-the-badge" alt="Profile Views" />
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/midhun-krishnan-7b205a422" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131%3Ftab%3Drepositories" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:midhunmaddy84@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </div>
 
 >_ MIDHUN-KRISHNAN-131 // ABOUT ME
@@ -27,12 +37,14 @@ Python Developer · Gen AI Engineer
 <li>🎓 <strong>BCA (Computer Science)</strong> — Yenepoya University <em>(Expected 2028)</em></li>
 <li>📍 <strong>Location:</strong> Thiruvananthapuram, Kerala, India</li>
 <li>🤖 <strong>Focus:</strong> LLM API integration (Groq, OpenAI, Gemini), structured outputs, tool calling & resilient REST API clients</li>
-<li>🛠️ <strong>Experience:</strong> Ex-IT Support @ ICICI · Open to AI/Python Internships</li>
+<li>🛠️ <strong>Experience:</strong> Ex-IT Support @ ICICI Prudential Life Insurance</li>
 <li>⚡ <strong>Status:</strong> Open to <strong>Python Developer</strong> & <strong>Generative AI</strong> Internships</li>
 </ul>
 </td>
 <td width="42%" valign="middle" align="center">
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131%3Ftab%3Drepositories"><img src="./binary-cube.png" alt="3D Python & Binary Core" width="100%" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131%3Ftab%3Drepositories">
+<img src="./binary-cube.png" alt="3D Python & Binary Core" width="100%" />
+</a>
 </td>
 </tr>
 </table>
@@ -42,19 +54,31 @@ Python Developer · Gen AI Engineer
 <table>
 <tr>
 <td width="33.3%" align="center" valign="top">
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/CodeDoctor--AI"><img src="./codedoctor-card.png" alt="CodeDoctor AI" width="100%" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/CodeDoctor--AI">
+<img src="./codedoctor-card.png" alt="CodeDoctor AI" width="100%" />
+</a>
 <br/><br/>
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/CodeDoctor--AI"><img src="https://img.shields.io/badge/OPEN_REPO-CodeDoctor_AI-ef4444?style=for-the-badge&logo=github&logoColor=white" alt="Open CodeDoctor AI Repo" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/CodeDoctor--AI">
+<img src="https://img.shields.io/badge/OPEN_REPO-CodeDoctor_AI-ef4444?style=for-the-badge&logo=github&logoColor=white" alt="Open CodeDoctor AI Repo" />
+</a>
 </td>
 <td width="33.3%" align="center" valign="top">
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/LLM-cli-client"><img src="./devassist-card.png" alt="DevAssist CLI" width="100%" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/LLM-cli-client">
+<img src="./devassist-card.png" alt="DevAssist CLI" width="100%" />
+</a>
 <br/><br/>
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/LLM-cli-client"><img src="https://img.shields.io/badge/OPEN_REPO-DevAssist_CLI-38bdf8?style=for-the-badge&logo=github&logoColor=black" alt="Open DevAssist CLI Repo" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/LLM-cli-client">
+<img src="https://img.shields.io/badge/OPEN_REPO-DevAssist_CLI-38bdf8?style=for-the-badge&logo=github&logoColor=black" alt="Open DevAssist CLI Repo" />
+</a>
 </td>
 <td width="33.3%" align="center" valign="top">
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/api-client-project"><img src="./apiclient-card.png" alt="API Client" width="100%" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/api-client-project">
+<img src="./apiclient-card.png" alt="API Client" width="100%" />
+</a>
 <br/><br/>
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/api-client-project"><img src="https://img.shields.io/badge/OPEN_REPO-API_Client-ef4444?style=for-the-badge&logo=github&logoColor=white" alt="Open API Client Repo" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/api-client-project">
+<img src="https://img.shields.io/badge/OPEN_REPO-API_Client-ef4444?style=for-the-badge&logo=github&logoColor=white" alt="Open API Client Repo" />
+</a>
 </td>
 </tr>
 </table>
@@ -66,7 +90,9 @@ Python Developer · Gen AI Engineer
 <td width="45%" valign="middle" align="center">
 <strong>LANGUAGES &amp; TECH STACK</strong>
 <br/><br/>
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131%3Ftab%3Drepositories"><img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,html,css,react,sqlite,git,github,vscode,linux,bash,docker,postman&theme=dark&perline=5" alt="Languages and Tech Stack" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131%3Ftab%3Drepositories">
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,html,css,react,sqlite,git,github,vscode,linux,bash,docker,postman&theme=dark&perline=5" alt="Languages and Tech Stack" />
+</a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ef4444" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=38bdf8" alt="FastAPI" />
@@ -79,13 +105,8 @@ Python Developer · Gen AI Engineer
 <strong>GITHUB STATS &amp; STREAK</strong>
 <br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhunkrishnan-131&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=38bdf8&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&hide_border=true" alt="GitHub Streak" width="100%" />
-
-
-
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=midhunkrishnan-131&theme=github_dark" alt="GitHub Stats" width="100%" />
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=midhunkrishnan-131&theme=github_dark" alt="GitHub Stats" width="100%" />
 </td>
-
-
 </tr>
 </table>
