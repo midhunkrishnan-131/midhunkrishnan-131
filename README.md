@@ -27,12 +27,12 @@ Python Developer · Gen AI Engineer
 <li>🎓 <strong>BCA (Computer Science)</strong> — Yenepoya University <em>(Expected 2028)</em></li>
 <li>📍 <strong>Location:</strong> Thiruvananthapuram, Kerala, India</li>
 <li>🤖 <strong>Focus:</strong> LLM API integration (Groq, OpenAI, Gemini), structured outputs, tool calling & resilient REST API clients</li>
-<li>🛠️ <strong>Experience:</strong> Ex-IT / Technical Support @ ICICI Prudential Life Insurance</li>
+<li>🛠️ <strong>Experience:</strong> Ex-IT Support @ ICICI · Open to AI/Python Internships</li>
 <li>⚡ <strong>Status:</strong> Open to <strong>Python Developer</strong> & <strong>Generative AI</strong> Internships</li>
 </ul>
 </td>
 <td width="42%" valign="middle" align="center">
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131%3Ftab%3Drepositories"><img src="./binary-cube.jpg" alt="3D Python & Binary Core" width="100%" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131%3Ftab%3Drepositories"><img src="./binary-cube.png" alt="3D Python & Binary Core" width="100%" /></a>
 </td>
 </tr>
 </table>
@@ -42,17 +42,17 @@ Python Developer · Gen AI Engineer
 <table>
 <tr>
 <td width="33.3%" align="center" valign="top">
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/CodeDoctor--AI"><img src="./codedoctor-card.jpg" alt="CodeDoctor AI" width="100%" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/CodeDoctor--AI"><img src="./codedoctor-card.png" alt="CodeDoctor AI" width="100%" /></a>
 <br/><br/>
 <a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/CodeDoctor--AI"><img src="https://img.shields.io/badge/OPEN_REPO-CodeDoctor_AI-ef4444?style=for-the-badge&logo=github&logoColor=white" alt="Open CodeDoctor AI Repo" /></a>
 </td>
 <td width="33.3%" align="center" valign="top">
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/LLM-cli-client"><img src="./devassist-card.jpg" alt="DevAssist CLI" width="100%" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/LLM-cli-client"><img src="./devassist-card.png" alt="DevAssist CLI" width="100%" /></a>
 <br/><br/>
 <a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/LLM-cli-client"><img src="https://img.shields.io/badge/OPEN_REPO-DevAssist_CLI-38bdf8?style=for-the-badge&logo=github&logoColor=black" alt="Open DevAssist CLI Repo" /></a>
 </td>
 <td width="33.3%" align="center" valign="top">
-<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/api-client-project"><img src="./apiclient-card.jpg" alt="API Client" width="100%" /></a>
+<a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/api-client-project"><img src="./apiclient-card.png" alt="API Client" width="100%" /></a>
 <br/><br/>
 <a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/api-client-project"><img src="https://img.shields.io/badge/OPEN_REPO-API_Client-ef4444?style=for-the-badge&logo=github&logoColor=white" alt="Open API Client Repo" /></a>
 </td>
