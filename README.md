@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131%3Ftab%3Drepositories">
-<img src="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/midhunkrishnan-131/blob/main/Gemini_Generated_Image_yl0co3yl0co3yl0c.png%3Fraw%3Dtrue" alt="Midhun Krishnan B — Python Developer · Gen AI Engineer" width="100%" />
+<img src="Gemini_Generated_Image_yl0co3yl0co3yl0c.png" alt="Midhun Krishnan B — Python Developer · Gen AI Engineer" width="100%" />
 </a>
 </div>
 
@@ -43,7 +43,7 @@ Python Developer · Gen AI Engineer
 </td>
 <td width="42%" valign="middle" align="center">
 <a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131%3Ftab%3Drepositories">
-<img src="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/midhunkrishnan-131/blob/main/binary-cube.png%3Fraw%3Dtrue" alt="3D Python & Binary Core" width="100%" />
+<img src="binary-cube.png" alt="3D Python & Binary Core" width="100%" />
 </a>
 </td>
 </tr>
@@ -55,7 +55,7 @@ Python Developer · Gen AI Engineer
 <tr>
 <td width="33.3%" align="center" valign="top">
 <a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/CodeDoctor--AI">
-<img src="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/midhunkrishnan-131/blob/main/codedoctor-card.png%3Fraw%3Dtrue" alt="CodeDoctor AI" width="100%" />
+<img src="codedoctor-card.png" alt="CodeDoctor AI" width="100%" />
 </a>
 <br/><br/>
 <a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/CodeDoctor--AI">
@@ -64,7 +64,7 @@ Python Developer · Gen AI Engineer
 </td>
 <td width="33.3%" align="center" valign="top">
 <a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/LLM-cli-client">
-<img src="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/midhunkrishnan-131/blob/main/devassist-card.png%3Fraw%3Dtrue" alt="DevAssist CLI" width="100%" />
+<img src="devassist-card.png" alt="DevAssist CLI" width="100%" />
 </a>
 <br/><br/>
 <a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/LLM-cli-client">
@@ -73,7 +73,7 @@ Python Developer · Gen AI Engineer
 </td>
 <td width="33.3%" align="center" valign="top">
 <a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/api-client-project">
-<img src="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/midhunkrishnan-131/blob/main/apiclient-card.png%3Fraw%3Dtrue" alt="API Client" width="100%" />
+<img src="apiclient-card.png" alt="API Client" width="100%" />
 </a>
 <br/><br/>
 <a href="https://www.google.com/search?q=https://github.com/midhunkrishnan-131/api-client-project">
