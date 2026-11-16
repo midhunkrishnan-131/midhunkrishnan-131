@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/Open%20to-Python%20%26%20GenAI%20internships-e3b341?style=flat-square&labelColor=070b10" alt="Open to internships" />
 
 <!--
+  Side cards are self-hosted SVGs in assets/ (scripts/generate_cards.py).
   Stats: github-stats-extended (maintained, API-compatible successor of
   github-readme-stats — the public vercel.app deployment is paused).
   Streak: streak-stats.demolab.com.
@@ -23,16 +24,26 @@
 
 <table>
 <tr>
-<td width="30%" align="center" valign="middle">
+<td width="30%" align="center" valign="top">
+<img src="assets/whoami.svg" width="100%" alt="whoami: Midhun Krishnan, Python Developer and Generative AI, BCA at Yenepoya University (2028), Thiruvananthapuram, Kerala, open to Python and GenAI internships" />
+<br/>
+<a href="https://www.linkedin.com/in/midhun-krishnan-342084436/"><img src="assets/badge-linkedin.svg" height="26" alt="LinkedIn" /></a>&nbsp;<a href="mailto:midhunmaddy84@gmail.com"><img src="assets/badge-email.svg" height="26" alt="Email" /></a>
+<br/><br/>
 <img src="https://github-stats-extended.vercel.app/api?username=midhunkrishnan-131&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true&bg_color=070b10&border_color=1f6f43&title_color=3fb950&icon_color=e3b341&text_color=c9d1d9&ring_color=3fb950" width="100%" alt="GitHub stats: stars, commits, pull requests, contributions" />
 <br/><br/>
 <img src="https://streak-stats.demolab.com/?user=midhunkrishnan-131&hide_border=true&background=070B10&ring=3FB950&fire=E3B341&currStreakLabel=3FB950&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&stroke=1F6F43&border=1F6F43" width="100%" alt="GitHub contribution streak" />
+<br/><br/>
+<img src="assets/building.svg" width="100%" alt="Currently building CodeDoctor AI, DevAssist, and MYX AI" />
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center" valign="top">
 <img src="assets/portrait.svg" width="100%" alt="Line-art portrait of Midhun Krishnan" />
 </td>
-<td width="30%" align="center" valign="middle">
+<td width="30%" align="center" valign="top">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=midhunkrishnan-131&layout=compact&hide_border=true&bg_color=070b10&border_color=1f6f43&title_color=3fb950&text_color=c9d1d9&langs_count=6&hide=batchfile" width="100%" alt="Top languages" />
+<br/><br/>
+<img src="assets/stack.svg" width="100%" alt="Stack: Python, FastAPI, Pydantic, Groq, OpenAI, Gemini, React, TypeScript, PostgreSQL, Docker, Git" />
+<br/><br/>
+<img src="assets/learning.svg" width="100%" alt="Now learning LLM agents, RAG, and MLOps" />
 </td>
 </tr>
 </table>
