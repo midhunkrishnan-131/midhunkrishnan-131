@@ -173,7 +173,7 @@ def build_whoami() -> tuple[str, int]:
         "Thiruvananthapuram, Kerala. Open to Python and GenAI internships.",
     )
     x = 16
-    card.y = 44
+    card.y = 40
     prompt = 13
     base = card.baseline(prompt)
     card.text("$ ", x, base, prompt, GREEN)
@@ -181,7 +181,7 @@ def build_whoami() -> tuple[str, int]:
     card.y += 18
     name_size = 18
     card.text("Midhun Krishnan", x, card.baseline(name_size), name_size, GREEN, "medium")
-    card.y += 26
+    card.y += 22
 
     # Full-width output lines. 13px keeps every fact on one row inside the column.
     body = 13
@@ -196,8 +196,8 @@ def build_whoami() -> tuple[str, int]:
         width = card.text(value, x, base, body, color)
         if blink:
             card.add(cursor(x + width + 5, base, body))
-        card.y += 20 if i < len(lines) - 1 else 16
-    card.y += 6
+        card.y += 18 if i < len(lines) - 1 else 14
+    card.y += 2
     return card.finish()
 
 
@@ -211,15 +211,15 @@ def build_building() -> tuple[str, int]:
         ("02", "DevAssist", "tool calling"),
         ("03", "MYX AI", "CVSS · copilot"),
     ]
-    card.y = 44
+    card.y = 38
     for index, name, tag in projects:
         base = card.baseline(14)
         card.text(index, 16, base, 12, AMBER, "medium")
         card.text(name, 42, base, 14, GREEN, "medium")
         tag_w = REGULAR.width(tag, 12)
         card.text(tag, WIDTH - 16 - tag_w, base + 0.5, 12, MUTED)
-        card.y += 30
-    card.y += 4
+        card.y += 24
+    card.y += 12
     return card.finish()
 
 
@@ -296,6 +296,36 @@ def build_learning() -> tuple[str, int]:
     return card.finish()
 
 
+def build_badge(label: str, mark: str, mark_color: str, desc: str) -> str:
+    """Small pill. The README wraps the file in an <a>, since an SVG <img> cannot be clicked."""
+    width, height = 118, 28
+    size = 12
+    box = 16
+    bx = 8
+    by = (height - box) / 2
+    parts = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
+        f'viewBox="0 0 {width} {height}" role="img">',
+        f"<title>{esc(label)}</title>",
+        f"<desc>{esc(desc)}</desc>",
+        f'<rect width="{width}" height="{height}" rx="8" fill="{BG}"/>',
+        f'<rect x="1" y="1" width="{width - 2}" height="{height - 2}" rx="7" '
+        f'fill="none" stroke="{FRAME}" stroke-width="1.25"/>',
+        f'<rect x="{bx}" y="{by:.2f}" width="{box}" height="{box}" rx="4" '
+        f'fill="#10261a" stroke="{mark_color}" stroke-width="1"/>',
+    ]
+    mark_w = MEDIUM.width(mark, 9)
+    parts.append(
+        MEDIUM.svg(mark, bx + (box - mark_w) / 2, by + box / 2 + MEDIUM.cap(9) / 2, 9, mark_color)
+    )
+    parts.append(
+        MEDIUM.svg(label, bx + box + 6, height / 2 + MEDIUM.cap(size) / 2, size, TEXT)
+    )
+    parts.append("</svg>")
+    return "\n".join(parts) + "\n"
+
+
 def main() -> None:
     cards = {
         "whoami.svg": build_whoami(),
@@ -303,7 +333,19 @@ def main() -> None:
         "stack.svg": build_stack(),
         "learning.svg": build_learning(),
     }
+    badges = {
+        "badge-linkedin.svg": build_badge(
+            "LinkedIn", "in", AMBER, "LinkedIn profile for Midhun Krishnan."
+        ),
+        "badge-email.svg": build_badge(
+            "Email", "@", GREEN, "Email Midhun Krishnan."
+        ),
+    }
     OUT.mkdir(exist_ok=True)
+    for name, svg in badges.items():
+        path = OUT / name
+        path.write_text(svg, encoding="utf-8")
+        print(f"{name:16} {path.stat().st_size:6} bytes")
     for name, (svg, height) in cards.items():
         path = OUT / name
         path.write_text(svg, encoding="utf-8")

@@ -26,6 +26,8 @@
 <tr>
 <td width="30%" align="center" valign="top">
 <img src="assets/whoami.svg" width="100%" alt="whoami: Midhun Krishnan, Python Developer and Generative AI, BCA at Yenepoya University (2028), Thiruvananthapuram, Kerala, open to Python and GenAI internships" />
+<br/>
+<a href="https://www.linkedin.com/in/midhun-krishnan-342084436/"><img src="assets/badge-linkedin.svg" height="26" alt="LinkedIn" /></a>&nbsp;<a href="mailto:midhunmaddy84@gmail.com"><img src="assets/badge-email.svg" height="26" alt="Email" /></a>
 <br/><br/>
 <img src="https://github-stats-extended.vercel.app/api?username=midhunkrishnan-131&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true&bg_color=070b10&border_color=1f6f43&title_color=3fb950&icon_color=e3b341&text_color=c9d1d9&ring_color=3fb950" width="100%" alt="GitHub stats: stars, commits, pull requests, contributions" />
 <br/><br/>
