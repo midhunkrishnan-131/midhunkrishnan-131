@@ -97,7 +97,7 @@ Python Developer · Gen AI Engineer
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ef4444" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=38bdf8" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic&logoColor=ef4444" alt="Pydantic" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Groq_API-0d1117%3Fstyle%3Dflat-square" alt="Groq API" />
+<img src="https://img.shields.io/badge/Groq_API-0d1117?style=flat-square" alt="Groq API" />
 <img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=38bdf8" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=ef4444" alt="Gemini" />
 </td>
