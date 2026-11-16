@@ -24,7 +24,7 @@
 <table>
 <tr>
 <td width="30%" align="center" valign="middle">
-<img src="https://github-stats-extended.vercel.app/api?username=midhunkrishnan-131&show_icons=true&include_all_commits=true&hide_border=true&bg_color=070b10&border_color=1f6f43&title_color=3fb950&icon_color=e3b341&text_color=c9d1d9&ring_color=3fb950" width="100%" alt="GitHub stats: stars, commits, pull requests, contributions" />
+<img src="https://github-stats-extended.vercel.app/api?username=midhunkrishnan-131&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true&bg_color=070b10&border_color=1f6f43&title_color=3fb950&icon_color=e3b341&text_color=c9d1d9&ring_color=3fb950" width="100%" alt="GitHub stats: stars, commits, pull requests, contributions" />
 <br/><br/>
 <img src="https://streak-stats.demolab.com/?user=midhunkrishnan-131&hide_border=true&background=070B10&ring=3FB950&fire=E3B341&currStreakLabel=3FB950&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&stroke=1F6F43&border=1F6F43" width="100%" alt="GitHub contribution streak" />
 </td>
